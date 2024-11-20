@@ -1,35 +1,26 @@
-# qrCode
+# Gerador de QR Code 📱 
 
-This template should help get you started developing with Vue 3 in Vite.
+## 📝 Descrição 
+Um gerador de QR Code simples desenvolvido com Vue.js, HTML, CSS e JavaScript. Este projeto permite que os usuários insiram uma URL ou texto e gerem um QR Code correspondente de forma rápida e intuitiva. Ideal para compartilhar informações de maneira eficiente.
 
-## Recommended IDE Setup
+## 🚀 Funcionalidades 
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+* Geração de QR Codes dinâmicos a partir de links ou textos.
+* Validação de entrada com alertas para campos vazios.
+* Exibição e atualização automática do QR Code gerado.
 
-## Customize configuration
+## 🛠️ Tecnologias Utilizadas
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+- Vue.js - Framework para criação da interface interativa. 
+- HTML5 - Estrutura do projeto. 
+- CSS3 - Estilização. 
+- JavaScript - Lógica para geração de QR Codes. 
 
-## Project Setup
+## 📖 Como Usar   
 
-```sh
-npm install
-```
+Acesse o projeto aqui: [QR Code Generator](https://qr-code-generator-sigma-orpin.vercel.app/)  
 
-### Compile and Hot-Reload for Development
+Clique no link acima, insira as informações que deseja transformar em QR Code (como URL ou texto) e clique em "GerarQrCode" para visualizar automaticamente.
 
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+### 👩‍💻 Autor 
+* Letícia Barros
