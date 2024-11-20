@@ -72,6 +72,7 @@ export default {
 .wrapper {
   background-color: #ffffff;
   padding-right: 50px;
+  margin-top: 40px;
   height: 350px;
   width: 600px;
   border-radius: 10px;
